@@ -1,3 +1,7 @@
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shubh Sharma
+</h1>
+
 # 💫 About Me:
 🔭 Currently working on open source backend projects<br>🤝 Looking to collaborate on Java and Spring-based projects<br>🧠 Seeking help with Spring AI<br>🌱 Currently learning Spring Security and AI<br>💬 Ask me about Java, Spring Boot, and backend development<br>⚡ Fun fact: I’ve been building and exploring for 3+ years
 
@@ -21,7 +25,7 @@
 
 ## 👨‍💼 Leadership & Roles
 
-🎯 IEEE Student Branch Advisor (Current)  
+🎯 IEEE Student Branch Advisor at AITR,Indore (Current)  
 
 📰 Former Newsletter Head – IEEE TEMS (2024–25)  
 ✍️ Current Content Writing Head – IEEE TEMS  

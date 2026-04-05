@@ -1,6 +1,7 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shubh Sharma
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Shubh Sharma
 </h1>
+<h3 align="center">Backend Developer | Java & Spring Boot</h3>
 
 # 💫 About Me:
 🔭 Currently working on open source backend projects<br>🤝 Looking to collaborate on Java and Spring-based projects<br>🧠 Seeking help with Spring AI<br>🌱 Currently learning Spring Security and AI<br>💬 Ask me about Java, Spring Boot, and backend development<br>⚡ Fun fact: I’ve been building and exploring for 3+ years

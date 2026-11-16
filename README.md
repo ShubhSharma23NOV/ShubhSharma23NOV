@@ -27,6 +27,12 @@ I'm **Shubh Sharma**, a backend-focused developer building Java and Spring Boot 
 | Distributed backend architecture using Spring Boot and microservices concepts. | Health-focused innovation recognized through SIH 2025 and the Global Innovation Excellence Award 2026. |
 | [Browse projects](https://github.com/ShubhSharma23NOV?tab=repositories) | [Browse projects](https://github.com/ShubhSharma23NOV?tab=repositories) |
 
+| SthayiNivas | CampusConnect |
+|:--|:--|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-sthayinivas-dark.svg"><img src="./assets/project-sthayinivas-light.svg" alt="SthayiNivas project" width="100%"></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-campusconnect-dark.svg"><img src="./assets/project-campusconnect-light.svg" alt="CampusConnect project" width="100%"></picture> |
+| Real estate management platform built with Java, Spring Boot, and MySQL, featuring role-based dashboards, property listings, favorites, inquiries, email OTP, and an Ollama chatbot integration. | CampusConnect — project details and technology stack to be confirmed. |
+| [Browse repositories](https://github.com/ShubhSharma23NOV?tab=repositories) | [Browse repositories](https://github.com/ShubhSharma23NOV?tab=repositories) |
+
 ## Toolkit
 
 **Backend:** Java · Spring Boot · Spring Security · REST APIs · Microservices

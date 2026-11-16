@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+<title id="title">Shubh Sharma — Java Backend Developer</title><desc id="desc">Developer portfolio header with Java, Spring Boot, REST APIs and microservices.</desc>
+<rect width="720" height="420" rx="24" fill="#F5F8FF"/>
+<rect x="18" y="18" width="684" height="384" rx="18" fill="none" stroke="#3657C9" stroke-opacity=".32"/>
+
+<rect x="48" y="47" width="10" height="10" rx="5" fill="#087E72"/>
+<text x="69" y="58" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" font-weight="700" fill="#087E72">ENGINEERING THE BACKEND</text>
+<text x="46" y="139" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="800" letter-spacing="-2" fill="#14213B">SHUBH SHARMA</text>
+<text x="49" y="191" font-family="Arial,sans-serif" font-size="27" fill="#536783">Java Backend Developer</text>
+<text x="49" y="230" font-family="Arial,sans-serif" font-size="19" fill="#536783">Building reliable APIs and scalable systems.</text>
+<rect x="48" y="248" width="75" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="85.5" y="272" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">JAVA</text><rect x="135" y="248" width="145" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="207.5" y="272" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">SPRING BOOT</text><rect x="292" y="248" width="125" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="354.5" y="272" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">REST APIs</text><rect x="429" y="248" width="165" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="511.5" y="272" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">MICROSERVICES</text>
+<text x="49" y="378" font-family="Arial,sans-serif" font-size="15" letter-spacing="1.5" fill="#087E72">SIH 2025 WINNER  /  OPEN TO BACKEND OPPORTUNITIES</text>
+</svg>

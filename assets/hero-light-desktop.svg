@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Shubh Sharma — Java Backend Developer</title><desc id="desc">Developer portfolio header with Java, Spring Boot, REST APIs and microservices.</desc>
+<rect width="1200" height="400" rx="24" fill="#F5F8FF"/>
+<rect x="18" y="18" width="1164" height="364" rx="18" fill="none" stroke="#3657C9" stroke-opacity=".32"/>
+<circle cx="1080" cy="55" r="205" fill="#3657C9" opacity=".075"/>
+    <circle cx="1130" cy="360" r="150" fill="#087E72" opacity=".06"/>
+    <path d="M915 70 L980 125 L915 180" fill="none" stroke="#087E72" stroke-width="8" opacity=".65"/>
+    <path d="M1030 70 L965 180" fill="none" stroke="#3657C9" stroke-width="8" opacity=".65"/>
+<rect x="48" y="47" width="10" height="10" rx="5" fill="#087E72"/>
+<text x="69" y="58" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" font-weight="700" fill="#087E72">ENGINEERING THE BACKEND</text>
+<text x="46" y="151" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800" letter-spacing="-2" fill="#14213B">SHUBH SHARMA</text>
+<text x="49" y="208" font-family="Arial,sans-serif" font-size="30" fill="#536783">Java Backend Developer</text>
+<text x="49" y="247" font-family="Arial,sans-serif" font-size="21" fill="#536783">Building reliable APIs and scalable systems.</text>
+<rect x="48" y="265" width="79" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="87.5" y="289" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">JAVA</text><rect x="139" y="265" width="156" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="217.0" y="289" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">SPRING BOOT</text><rect x="307" y="265" width="134" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="374.0" y="289" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">REST APIs</text><rect x="453" y="265" width="178" height="38" rx="19" fill="#E7EEFA" stroke="#3657C9" stroke-opacity=".35"/><text x="542.0" y="289" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#14213B" text-anchor="middle">MICROSERVICES</text>
+<text x="49" y="358" font-family="Arial,sans-serif" font-size="15" letter-spacing="1.5" fill="#087E72">SIH 2025 WINNER  /  OPEN TO BACKEND OPPORTUNITIES</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-label="CampusConnect project card">
+<rect width="640" height="240" rx="20" fill="#111C30"/>
+<rect x="14" y="14" width="612" height="212" rx="15" fill="none" stroke="#76E4BC"/>
+<text x="36" y="53" font-family="Arial, sans-serif" font-size="15" letter-spacing="3" fill="#76E4BC">PROJECT / 04</text>
+<text x="36" y="111" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#F4F7FF">CampusConnect</text>
+<text x="36" y="151" font-family="Arial, sans-serif" font-size="20" fill="#B3C3DE">Campus-focused application</text>
+<text x="36" y="200" font-family="Arial, sans-serif" font-size="17" fill="#76E4BC">Project details to be confirmed</text>
+</svg>
